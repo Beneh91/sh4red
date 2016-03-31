@@ -8,6 +8,7 @@ public class shared {
 System.out.println("hi world");
 JOptionPane.showConfirmDialog(null, "bye");
 JOptionPane.showInputDialog("algo que comentar");
+JOptionPane.showMessageDialog(null, "vale, todo ok");
 	} 
 
 }
